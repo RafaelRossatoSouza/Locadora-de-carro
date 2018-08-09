@@ -1,0 +1,1 @@
+Para executar o programa basta executar a classe principal que está dentro do pacote Visão. 
